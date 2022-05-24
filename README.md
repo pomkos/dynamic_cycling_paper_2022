@@ -1,6 +1,6 @@
 # Background
 
-This repository contains the scripts and helper functions used to clean, explore, and analyze datasets for a dynamic cycling project [[1]] who's mission was to identify reasons behind the variance in participant reaction to the dynamic bike.
+This repository contains the scripts and helper functions used to clean, explore, and analyze datasets for a dynamic cycling project [[1]](#1) who's mission was to identify reasons behind the variance in participant reaction to the dynamic bike.
 
 ## References
 <a id="1">[1]</a> 

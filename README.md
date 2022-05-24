@@ -4,4 +4,4 @@ This repository contains the scripts and helper functions used to clean, explore
 
 ## References
 <a id="1">[1]</a> 
-1. __Gates, Peter__; Ridgel L., Angela. (2022). _Evaluation of demographic variables as predictors of motor symptoms in Parkinson’s disease after dynamic cycling_. Smart Health. https://www.frontiersin.org/articles/10.3389/fresc.2022.858401.
+__Gates, Peter__; Ridgel L., Angela. (2022). _Evaluation of demographic variables as predictors of motor symptoms in Parkinson’s disease after dynamic cycling_. Smart Health. https://www.frontiersin.org/articles/10.3389/fresc.2022.858401.
